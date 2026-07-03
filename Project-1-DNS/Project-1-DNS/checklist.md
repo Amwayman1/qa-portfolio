@@ -1,7 +1,14 @@
-# Checklist - DNS Project
+# DNS Project Checklist
 
-- Search works
+- Open main page
+- Search works correctly
+- Search empty input handled
+- Search with spaces handled
+- Search with numbers works
 - Product page opens
-- Product can be added to cart
-- Cart updates correctly
-- Filters work
+- Price is displayed correctly
+- Images are displayed
+- Add to cart works
+- Cart updates quantity
+- Remove from cart works
+- Price filter works
